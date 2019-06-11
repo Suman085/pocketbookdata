@@ -1,0 +1,357 @@
+{
+  "Convention on the rights of the child (CRC), 1989 ": {
+    "Ratification date": {
+      "Afghanistan": {
+        "value": "28-Mar-94",
+        "color": ""
+      },
+      "Bangladesh": {
+        "value": "03-Aug-90",
+        "color": ""
+      },
+      "Bhutan": {
+        "value": "01-Aug-90",
+        "color": ""
+      },
+      "India": {
+        "value": "11-Dec-92",
+        "color": ""
+      },
+      "Maldives": {
+        "value": "11-Feb-91",
+        "color": ""
+      },
+      "Nepal": {
+        "value": "14-Sep-90",
+        "color": ""
+      },
+      "Pakistan": {
+        "value": "12-Nov-90",
+        "color": ""
+      },
+      "Sri Lanka": {
+        "value": "12-Jul-91",
+        "color": ""
+      }
+    },
+    "Report date": {
+      "Afghanistan": {
+        "value": "26-Apr-16",
+        "color": "red"
+      },
+      "Bangladesh": {
+        "value": "23-Oct-12",
+        "color": "green"
+      },
+      "Bhutan": {
+        "value": "28-Oct-14",
+        "color": "green"
+      },
+      "India": {
+        "value": "15-Jul-20",
+        "color": "blue"
+      },
+      "Maldives": {
+        "value": "12-Sep-21",
+        "color": "blue"
+      },
+      "Nepal": {
+        "value": "11-Oct-12",
+        "color": "green"
+      },
+      "Pakistan": {
+        "value": "23-May-14",
+        "color": "green"
+      },
+      "Sri Lanka": {
+        "value": "08-Jun-16",
+        "color": "green"
+      }
+
+    }
+  },
+  "Optional protocol on the involvement of children in armed conflict (OPAC), 2000 ": {"Ratification date": {
+    "Afghanistan": {
+      "value": "24-Sep-03",
+      "color": ""
+    },
+    "Bangladesh": {
+      "value": "6-Sep-00",
+      "color": ""
+    },
+    "Bhutan": {
+      "value": "9-Dec-09",
+      "color": ""
+    },
+    "India": {
+      "value": "20-Nov-05",
+      "color": ""
+    },
+    "Maldives": {
+      "value": "29-Dec-04",
+      "color": ""
+    },
+    "Nepal": {
+      "value": "3-Jan-07",
+      "color": ""
+    },
+    "Pakistan": {
+      "value": "Not yet ratified",
+      "color": "gray"
+    },
+    "Sri Lanka": {
+      "value": "8-Sep-00",
+      "color": ""
+    }
+  },
+    "Report date": {
+      "Afghanistan": {
+        "value": "24-Oct-05",
+        "color": "red"
+      },
+      "Bangladesh": {
+        "value": "23-Oct-12",
+        "color": "green"
+      },
+      "Bhutan": {
+        "value": "3-Mar-15",
+        "color": "green"
+      },
+      "India": {
+        "value": "26-Aug-11",
+        "color": "green"
+      },
+      "Maldives": {
+        "value": "21-Feb-13",
+        "color": "green"
+      },
+      "Nepal": {
+        "value": "15-Oct-12",
+        "color": "green"
+      },
+      "Pakistan": {
+        "value": "Not yet ratified",
+        "color": "gray"
+      },
+      "Sri Lanka": {
+        "value": "16-Jun-08",
+        "color": "green"
+      }
+
+    }
+  },
+  "Optional Protocol on the sale of children, child prostitution and child pornography (OPSC), 2000 ": {
+    "Ratification date": {
+      "Afghanistan": {
+        "value": "19-Sep-02",
+        "color": ""
+      },
+      "Bangladesh": {
+        "value": "6-Sep-00",
+        "color": ""
+      },
+      "Bhutan": {
+        "value": "26-Nov-09",
+        "color": ""
+      },
+      "India": {
+        "value": "16-Aug-05",
+        "color": ""
+      },
+      "Maldives": {
+        "value": "10-May-02",
+        "color": ""
+      },
+      "Nepal": {
+        "value": "20-Jan-06",
+        "color": ""
+      },
+      "Pakistan": {
+        "value": "5-Jul-11",
+        "color": ""
+      },
+      "Sri Lanka": {
+        "value": "22-Sep-06",
+        "color": ""
+      }
+    },
+    "Report date": {
+      "Afghanistan": {
+        "value": "19-Oct-04",
+        "color": "red"
+      },
+      "Bangladesh": {
+        "value": "23-Oct-12",
+        "color": "green"
+      },
+      "Bhutan": {
+        "value": "3-Mar-15",
+        "color": "green"
+      },
+      "India": {
+        "value": "26-Aug-11",
+        "color": "green"
+      },
+      "Maldives": {
+        "value": "21-Feb-13",
+        "color": "green"
+      },
+      "Nepal": {
+        "value": "12-May-09",
+        "color": "green"
+      },
+      "Pakistan": {
+        "value": "4-Aug-13",
+        "color": "red"
+      },
+      "Sri Lanka": {
+        "value": "22-Oct-08",
+        "color": "red"
+      }
+
+    }
+  },
+  "Convention on the elimination of all forms of discrimination against Women (CEDAW), 1979 ": {
+    "Ratification date": {
+      "Afghanistan": {
+        "value": "5-Mar-03",
+        "color": ""
+      },
+      "Bangladesh": {
+        "value": "6-Nov-84",
+        "color": ""
+      },
+      "Bhutan": {
+        "value": "31-Aug-81",
+        "color": ""
+      },
+      "India": {
+        "value": "9-Jul-93",
+        "color": ""
+      },
+      "Maldives": {
+        "value": "1-Jul-93",
+        "color": ""
+      },
+      "Nepal": {
+        "value": "22-Apr-91",
+        "color": ""
+      },
+      "Pakistan": {
+        "value": "12-Mar-96",
+        "color": ""
+      },
+      "Sri Lanka": {
+        "value": "5-Oct-81",
+        "color": ""
+      }
+    },
+    "Report date": {
+      "Afghanistan": {
+        "value": "26-Jul-17",
+        "color": "blue"
+      },
+      "Bangladesh": {
+        "value": "14-Apr-15",
+        "color": "green"
+      },
+      "Bhutan": {
+        "value": "6-Mar-15",
+        "color": "green"
+      },
+      "India": {
+        "value": "9-Jul-12",
+        "color": "green"
+      },
+      "Maldives": {
+        "value": "1-Mar-19",
+        "color": "blue"
+      },
+      "Nepal": {
+        "value": "Jul-15",
+        "color": "red"
+      },
+      "Pakistan": {
+        "value": "1-Mar-17",
+        "color": "blue"
+      },
+      "Sri Lanka": {
+        "value": "30-Apr-15",
+        "color": "red"
+      }
+
+    }
+  },
+  "Convention on the rights of persons with disabilities (CRPD), 2006 ": {
+    "Ratification date": {
+      "Afghanistan": {
+        "value": "18-Sept-12",
+        "color": ""
+      },
+      "Bangladesh": {
+        "value": "30-Nov-07",
+        "color": ""
+      },
+      "Bhutan": {
+        "value": "Not yet ratified",
+        "color": "gray"
+      },
+      "India": {
+        "value": "1-Oct-07",
+        "color": ""
+      },
+      "Maldives": {
+        "value": "5-Apr-10",
+        "color": ""
+      },
+      "Nepal": {
+        "value": "7-May-10",
+        "color": ""
+      },
+      "Pakistan": {
+        "value": "5-Jul-11",
+        "color": ""
+      },
+      "Sri Lanka": {
+        "value": "Not yet ratified",
+        "color": "gray"
+      }
+    },
+    "Report date": {
+      "Afghanistan": {
+        "value": "18-Oct-14",
+        "color": "red"
+      },
+      "Bangladesh": {
+        "value": "3-Jun-10",
+        "color": "red"
+      },
+      "Bhutan": {
+        "value": "Not yet ratified",
+        "color": "gray"
+      },
+      "India": {
+        "value": "30-Oct-15",
+        "color": "green"
+      },
+      "Maldives": {
+        "value": "5-May-12",
+        "color": "red"
+      },
+      "Nepal": {
+        "value": "29-Aug-14",
+        "color": "green"
+      },
+      "Pakistan": {
+        "value": "4-Aug-13",
+        "color": "red"
+      },
+      "Sri Lanka": {
+        "value": "Not yet ratified",
+        "color": "gray"
+      }
+
+    }
+  }
+
+}

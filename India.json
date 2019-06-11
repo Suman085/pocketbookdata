@@ -1,0 +1,527 @@
+[
+  {
+    "Category": "Population",
+    "Index": "Total population, 2015 (thousands)",
+    "Value": "1,311,051",
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Population",
+    "Index": "Population aged under 18, 2015 (thousands, % of total population)",
+    "Value": "451,990",
+    "Percentage": "34%",
+    "link": "1"
+  },
+  {
+    "Category": "Population",
+    "Index": "Population aged under 5, 2015 (thousands, % of total population)",
+    "Value": "123,711",
+    "Percentage": "9%",
+    "link": "1"
+  },
+  {
+    "Category": "Population",
+    "Index": "Population annual growth rate, 1990-2015 (%)",
+    "Value": 1.6,
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Population",
+    "Index": "Life expectancy at birth (years), 2015",
+    "Value": 68,
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Population",
+    "Index": "Total fertility rate, 2013",
+    "Value": 2.3,
+    "Percentage": "",
+    "link": "24"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Human Development Index (HDI), 2014 (rank/188 countries)",
+    "Value": 130,
+    "Percentage": "",
+    "link": "2"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Inequality-adjusted Human Development Index (IHDI), 2014 (rank/151 countries)",
+    "Value": 99,
+    "Percentage": "",
+    "link": "2"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Gender Inequality Index (GII), 2014 (rank/155 countries)",
+    "Value": 130,
+    "Percentage": "",
+    "link": "2"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Multidimensional Poverty Index (MPI), 2005-2006 (value)",
+    "Value": 0.282,
+    "Percentage": "",
+    "link": "2"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Gender Empowerment Measure (GEM) (rank/109 countries)",
+    "Value": "n.a.",
+    "Percentage": "",
+    "link": "41a"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Gini coefficient of income inequality, 2005-2013",
+    "Value": 33.6,
+    "Percentage": "",
+    "link": "41a"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Population below the national poverty line, 2011-2012 (%)",
+    "Value": 21.9,
+    "Percentage": "",
+    "link": "25"
+  },
+  {
+    "Category": "Poverty & Inequality",
+    "Index": "Population below int'l income poverty line (PPP US$ 1.25/day), 2012 (%)",
+    "Value": 23.6,
+    "Percentage": "",
+    "link": "3"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Neo-natal mortality rate (deaths per 1,000 live births), 2013",
+    "Value": 28,
+    "Percentage": "",
+    "link": "24"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Infant mortality rate (deaths per 1,000 live births), 2013",
+    "Value": 40,
+    "Percentage": "",
+    "link": "24"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Under 5 mortality rate (deaths per 1,000 live births), 2013",
+    "Value": 49,
+    "Percentage": "",
+    "link": "24"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Maternal mortality ratio (deaths per 100,000 live births), 2015",
+    "Value": 174,
+    "Percentage": "",
+    "link": "45"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Skilled attendance at birth, 2013-2014 (%)",
+    "Value": 81.1,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Children under 1 yr. immunized (BCG), 2014 (%)",
+    "Value": 91,
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Children under 1 yr. immunized (DPT 3), 2014 (%)",
+    "Value": 83,
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Children under 1 yr. immunized (Polio 3), 2014 (%)",
+    "Value": 82,
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Children under 1 yr. immunized (Measles), 2014 (%)",
+    "Value": 83,
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Children under 5 yr. underweight prevalence, moderate and severe, 2013-2014 (%)",
+    "Value": 29.4,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Children under 5 yr. stunting prevalence, moderate and severe, 2013-2014 (%)",
+    "Value": 38.7,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Number of new cases of wild poliovirus type 1 (WPV1), 2014",
+    "Value": 0,
+    "Percentage": "",
+    "link": "46"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Adult HIV/AIDS prevalence rate (15-49 years), 2012-2013 (%)",
+    "Value": 0.35,
+    "Percentage": "",
+    "link": "26"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Population using improved drinking water sources, 2013-2014 (%)",
+    "Value": 91,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Population using improved sanitation facilities, 2013-2014 (%)",
+    "Value": 41.8,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Population practicing open defecation, 2013-2014 (%)",
+    "Value": 45.5,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Vitamin A supplementation coverage rate (6-59 months), 2013-2014 (%)",
+    "Value": 46.2,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Health & Nutrition",
+    "Index": "Households consuming iodized salt, 2009-2013 (%)",
+    "Value": 71,
+    "Percentage": "",
+    "link": "1a"
+  },
+  {
+    "Category": "Education",
+    "Index": "Primary school net enrolment ratio, 2010-2014 (%, Male, Female)",
+    "Value": "M - 92",
+    "Percentage": "F - 99",
+    "link":"1a"
+  },
+  {
+    "Category": "Education",
+    "Index": "Females as % of males, primary school, 2010-2014 (GER)",
+    "Value": 112,
+    "Percentage": "",
+    "link": "1a"
+  },
+  {
+    "Category": "Education",
+    "Index": "Primary completion rate as % of relevant age group, 2013",
+    "Value": 96,
+    "Percentage": "",
+    "link": "3"
+  },
+  {
+    "Category": "Education",
+    "Index": "Survival rate to last primary grade, 2009-2014 (%)",
+    "Value": 95,
+    "Percentage": "",
+    "link": "1ax"
+  },
+  {
+    "Category": "Education",
+    "Index": "Secondary school net enrolment ratio, 2009-2013 (%, Male, Female)",
+    "Value": "M - 61",
+    "Percentage": "F - 62",
+    "link": "1a"
+  },
+  {
+    "Category": "Education",
+    "Index": "Females as % of males, secondary school, 2010-2014 (GER)",
+    "Value": 101,
+    "Percentage": "",
+    "link": "1a"
+  },
+  {
+    "Category": "Education",
+    "Index": "Out-of-school children of primary school age, 2013 (number, both sexes)",
+    "Value": "2,886,200",
+    "Percentage": "",
+    "link": "47k"
+  },
+  {
+    "Category": "Education",
+    "Index": "Out-of-school adolescents of lower secondary school age, 2013 (number, both sexes)",
+    "Value": "11,123,214",
+    "Percentage": "",
+    "link": "47k"
+  },
+  {
+    "Category": "Education",
+    "Index": "Youth literacy rate (15-24 years), 2005-2011 (%)",
+    "Value": 81,
+    "Percentage": "",
+    "link": "42ac"
+  },
+  {
+    "Category": "Education",
+    "Index": "Adult literacy rate, 2009-2014 (%)",
+    "Value": 69,
+    "Percentage": "",
+    "link": "1ax"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Birth registration, 2013-2014 (%)",
+    "Value": 72,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Women aged 20-24 who were married/in union before age 18, 2013-2014 (%)",
+    "Value": 30.3,
+    "Percentage": "",
+    "link": "49"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Legal age of marriage (years, Male, Female)",
+    "Value": "M - 21",
+    "Percentage": "F -18",
+    "link": "d"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Women aged 20-24 who gave birth before age 18, 2010-2015 (%)",
+    "Value": 22,
+    "Percentage": "",
+    "link": "1ax"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Child labour, 2011 (%)",
+    "Value": 4.5,
+    "Percentage": "",
+    "link": "23"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Minimum age for work (years)",
+    "Value": 14,
+    "Percentage": "",
+    "link": "e"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Minimum age for criminal responsibility (years)",
+    "Value": 7,
+    "Percentage": "",
+    "link": "4"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Child disability",
+    "Value": "n.a",
+    "Percentage": "",
+    "link": ""
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Justification of wife beating, 2010-2015 (%, Male, Female)",
+    "Value": "M - 42",
+    "Percentage": "F - 47",
+    "link": "1ax"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Persons recognized as refugees, 2014",
+    "Value": "199,916",
+    "Percentage": "",
+    "link": "6"
+  },
+  {
+    "Category": "Child Protection & Emergency Situation",
+    "Index": "Internally displaced persons protected/assisted by UNHCR, 2014",
+    "Value": "n.a",
+    "Percentage": "",
+    "link": "6"
+  },
+  {
+    "Category": "MDG Performance7",
+    "Index": "Early achiever:$1.25/day poverty, Country line poverty, Primary completion, Gender primary, HIV prevalence, TB incidence, TB prevalence, Forest cover, Protected area, CO2 emissions per GDP, Safe drinking water",
+    "Value": "",
+    "Percentage": "",
+    "link": ""
+  },
+  {
+    "Category": "MDG Performance7",
+    "Index": "On-track:Primary enrolment",
+    "Value": "",
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "MDG Performance7",
+    "Index": "Slow:Underweight children, Gender tertiary, Under 5 mortality, Infant mortality, Maternal mortality, Skilled birth attendance, Antenatal care, Basic sanitation",
+    "Value": "",
+    "Percentage": "",
+    "link": "1"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Least Developed Countries status",
+    "Value": "No",
+    "Percentage": "",
+    "link": "43"
+  },
+  {
+    "Category": "Economy",
+    "Index": "World Trade Organization membership",
+    "Value": "Yes",
+    "Percentage": "",
+    "link": "8"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Total Gross Domestic Product (GDP), 2014 (US$ in millions)",
+    "Value": "2,041,085",
+    "Percentage": "",
+    "link": "10"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Annual growth rate of GDP, 2015 (%)",
+    "Value": 7.6,
+    "Percentage": "",
+    "link": "9"
+  },
+  {
+    "Category": "Economy",
+    "Index": "GDP per capita, 2014 (US$)",
+    "Value": "1,610",
+    "Percentage": "",
+    "link": "10"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Annual growth rate of GDP per capita, 2015 (%)",
+    "Value": 6.2,
+    "Percentage": "",
+    "link": "9"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Gross National Income per capita, PPP, 2014 (US$)",
+    "Value": "5,630",
+    "Percentage": "",
+    "link": "3"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Total debt service as % of GNI, 2014",
+    "Value": 4.6,
+    "Percentage": "",
+    "link": "3"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Debt service ratio as a % of exports of goods & services, 2015",
+    "Value": 7.5,
+    "Percentage": "",
+    "link": "9"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Current account balance as a % of GDP, 20159",
+    "Value": -1.3,
+    "Percentage": "",
+    "link": "9"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Central Government revenues as a % of GDP, 2015",
+    "Value": 21,
+    "Percentage": "",
+    "link": "9"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Net Official Development Assistance (ODA) as % of GNI, 2013",
+    "Value": 0.13,
+    "Percentage": "",
+    "link": "3"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Net ODA per capita, 2013 (US$)",
+    "Value": 1.9,
+    "Percentage": "",
+    "link": "3"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Total remittances receipts, 2014 (US$ millions)",
+    "Value": "70,389",
+    "Percentage": "",
+    "link": "10"
+  },
+  {
+    "Category": "Economy",
+    "Index": "Total workers' remittances receipts as % of GDP, 2014",
+    "Value": 3.45,
+    "Percentage": "",
+    "link": "10b"
+  },
+  {
+    "Category": "Public Expenditure",
+    "Index": "Central Government expenditure as % of GDP, 2015",
+    "Value": 27.8,
+    "Percentage": "",
+    "link": "9"
+  },
+  {
+    "Category": "Public Expenditure",
+    "Index": "Public spending (Education) as a % of  GDP, 2009-2013",
+    "Value": 4,
+    "Percentage": "",
+    "link": "1a"
+  },
+  {
+    "Category": "Public Expenditure",
+    "Index": "Public spending (Health) as a % of GDP, 2009-2013",
+    "Value": 1,
+    "Percentage": "",
+    "link": "1a"
+  },
+  {
+    "Category": "Public Expenditure",
+    "Index": "Public spending (Military)  as a % of GDP, 2009-2013",
+    "Value": 3,
+    "Percentage": "",
+    "link": "1a"
+  }
+]

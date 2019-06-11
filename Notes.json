@@ -1,0 +1,39 @@
+{
+  "notes": {
+    "a": "Data refer to the most recent year available during the period specified",
+    "b": "GDP data source: UNCTAD secretariat calculations, based on UN DESA Statistics Division, National Accounts Main Aggregates Database",
+    "c": "Nationally observed literacy data are used",
+    "d": {
+      "Afghanistan": "Civil law, article 70 and 71, 1977",
+      "Bangladesh": "Child Marriage Restraint Act, 1929",
+      "Bhutan": "Marriage Act, 1980 (amended in 1996)",
+      "India": "Child Marriage Restraint Act, 1929",
+      "Maldives": "Law on the protection of the Rights of the child, 1991 (amended in 2000)",
+      "Nepal": "Civil Code, 1854 (11th amendment in 2001). The legal age of marriage is 18 years with parental consent and without consent for both males and females it is 20 years of age.",
+      "Pakistan": "Child Marriages Restraint Act, 1929",
+      "Sri Lanka": "Marriage Registration Act No. 18, 1995 (Amendment)"
+    },
+    "e": {
+      "Afghanistan": "Labour Code, Article 13, 2008",
+      "Bangladesh": "Labour Act, 2006",
+      "Bhutan": "Labour and Employment Act, 2007",
+      "India": "Child Labour (Prohibition and Regulation) Act, 1986",
+      "Maldives": "Employment Act, 2008",
+      "Nepal": "Child Labour (Prohibition and Regulation) Act, 1999",
+      "Pakistan": "Employment of Children Act, 1991",
+      "Sri Lanka": "Employment of Women, Young persons and Children Act No. 47, 1956 (amended in 1999)"
+    },
+    "f": "Early achiever - Has already met the target; On track - Expected to hit the target by 2015; Slow - Expected to hit the target after 2015; Regressing - Slipping backwards or stagnating",
+    "g": "Iran included",
+    "h": "2010 UN inter-agency maternal mortality estmates 2012",
+    "k": "UNESCO Institute of Statistics estimation",
+    "k+": "National estimation",
+    "n.a.": "Not available",
+    "q": "For the two Optional Protocols, the initial report is required as a stand alone report 2 years after ratification. Thereafter, reports should be integrated into the regular CRC reports.",
+    "r": "Regional averages for underweight (moderate and severe) are estimated using statistical modeling of data from the UNICEF-WHO-World Bank Joint Global Nutrition Database, 2013 revision (completed September 2014).",
+    "u": "Full coverage with vitamin A supplements is reported as the lower percentage of 2 annual coverage points (i.e., lower point between semester 1 (January-June) and semester 2 (July-December) of 2013). Data are only presented for VAS priority countries; thus aggregates are only based on and representative of these priority countries.",
+    "x": "Data refers to years or periods other than those specified in the column heading, differ from the standard definition or refer to only part of a country. Such data are not included in the calculation of regional and global averages.",
+    "y": "Data refer to years or periods other than those specified in the column heading, differ from the standard definition or refer to only part of a country. Such data are included in the calculation of regional and global averages.",
+    "z": "How to read the equity table: The equity table in this pocketbook provide statistics for key health, education, and protection indicators, disaggregated across several demographic characteristics of a child's life (e.g.: male/female, urban/rural). The values in the 'Disparity Gap' row represent the absolute percentage point difference between the best-performing and worst-performing groups for each demographic category. Disparity gaps range from 0-100; larger values reflect greater inequity while smaller values reflect less inequity.  For child mortality rates, the value is the absolute difference in the number of deaths per 1,000 live births. For negative indicators (child undernutrition and mortality), disparity gaps are calculated in the opposite direction. Negative disparity gaps indicate that a generally deprived group performs better on a specific indicator than a generally advantaged group. Note on data: All data in the equity matrices come from the most recently published country-level DHS or MICS reports."
+  }
+}
