@@ -22,7 +22,7 @@
   },
   {
     "Category": "Population",
-    "Index": "Population annual growth rate, 1990-2015 (%)",
+    "Index": "Population annual growth rate, 2015 (%)",
     "Value": "2.03%",
     "Percentage": "",
     "link": "47"
@@ -50,7 +50,7 @@
   },
   {
     "Category": "Poverty & Inequality",
-    "Index": "Gender Inequality Index (GII), 2017 (rank/155 countries)",
+    "Index": "Gender Inequality Index (GII), 2017 (rank/168 countries)",
     "Value": 0.625,
     "Percentage": "",
     "link": "2"
@@ -62,13 +62,7 @@
     "Percentage": "",
     "link": "49"
   },
-  {
-    "Category": "Poverty & Inequality",
-    "Index": "Gender Empowerment Measure (GEM) (rank/109 countries)",
-    "Value": "n.a.",
-    "Percentage": "",
-    "link": "41a"
-  },
+
   {
     "Category": "Poverty & Inequality",
     "Index": "Gini coefficient of income inequality, 2017 ",
