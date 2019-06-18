@@ -1,0 +1,1782 @@
+﻿{
+    "gender":{
+        "pakistan":{
+            "male":{
+                "Skilled birth attendance (%)": "n.a.",
+                "Birth registration (%)": "42.5",
+                "Child under-nutrition (%)": "38.2",
+                "Immunization (%)": "68.0",
+                "Neonatal mortality (#/1,000)": "52",
+                "Under-five mortality (#/1,000)": "80",
+                "Improved sanitation (%)": "n.a.",
+                "Primary school net attendance (%)": "61.4",
+                "Secondary school net attendance (%)": "39.9"
+            },
+            "female":{
+                "Skilled birth attendance (%)": "n.a.",
+                "Birth registration (%)": "41.9",
+                "Child under-nutrition (%)": "37.1",
+                "Immunization (%)": "63.1",
+                "Neonatal mortality (#/1,000)": "33",
+                "Under-five mortality (#/1,000)": "68",
+                "Improved sanitation (%)": "n.a.",
+                "Primary school net attendance (%)": "55.4",
+                "Secondary school net attendance (%)": "35.6"
+            }
+        },
+            "afganistan":{
+                "male":{
+                    "Skilled birth attendance (%)": "n.a.",
+                    "Birth registration (%)": "38.3",
+                    "Child under-nutrition (%)": "n.a.",
+                    "Immunization (%)": "45",
+                    "Neonatal mortality (#/1,000)": "n.a.",
+                    "Under-five mortality (#/1,000)": "106",
+                    "Improved sanitation (%)": "n.a.",
+                    "Primary school net attendance (%)": "62.9",
+                    "Secondary school net attendance (%)": "42.8"
+                },
+                "female":{
+                    "Skilled birth attendance (%)": "n.a.",
+                    "Birth registration (%)": "36.5",
+                    "Child under-nutrition (%)": "n.a.",
+                    "Immunization (%)": "46.4",
+                    "Neonatal mortality (#/1,000)": "n.a.",
+                    "Under-five mortality (#/1,000)": "97",
+                    "Improved sanitation (%)": "n.a.",
+                    "Primary school net attendance (%)": "46.4",
+                    "Secondary school net attendance (%)": "21.1"
+                }
+            },
+                "bangladesh":{
+                    "male":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "20.3",
+                        "Child under-nutrition (%)": "32.2",
+                        "Immunization (%)": "83.6",
+                        "Neonatal mortality (#/1,000)": "n.a.",
+                        "Under-five mortality (#/1,000)": "n.a.",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "85.6",
+                        "Secondary school net attendance (%)": "42"
+                    },
+                    "female":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "20",
+                        "Child under-nutrition (%)": "33.1",
+                        "Immunization (%)": "84.1",
+                        "Neonatal mortality (#/1,000)": "n.a.",
+                        "Under-five mortality (#/1,000)": "n.a.",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "87.4",
+                        "Secondary school net attendance (%)": "43.6"
+                    }
+                },
+                "bhutan":{
+                    "male":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "99.96",
+                        "Child under-nutrition (%)": "13.32",
+                        "Immunization (%)": "n.a.",
+                        "Neonatal mortality (#/1,000)": "n.a.",
+                        "Under-five mortality (#/1,000)": "79",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "91.2",
+                        "Secondary school net attendance (%)": "55.8"
+                    },
+                    "female":{              
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "99.82",
+                        "Child under-nutrition (%)": "12",
+                        "Immunization (%)": "n.a.",
+                        "Neonatal mortality (#/1,000)": "n.a.",
+                        "Under-five mortality (#/1,000)": "58",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "92.7",
+                        "Secondary school net attendance (%)": "54.1"
+                    }
+                },
+                "india":{
+                    "male":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "79.4",
+                        "Child under-nutrition (%)": "38.9",
+                        "Immunization (%)": "62.1",
+                        "Neonatal mortality (#/1,000)": "32.8",
+                        "Under-five mortality (#/1,000)": "51.5",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "95.2",
+                        "Secondary school net attendance (%)": "91.0"
+        },
+                    "female":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "80.1",
+                        "Child under-nutrition (%)": "37.9",
+                        "Immunization (%)": "61.9",
+                        "Neonatal mortality (#/1,000)": "25.8",
+                        "Under-five mortality (#/1,000)": "47.8",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "95.0",
+                        "Secondary school net attendance (%)": "89.9"
+        }
+    },
+                "maldives":{
+                    "male":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "98.5",
+                        "Child under-nutrition (%)": "14.2",
+                        "Immunization (%)": "76.0",
+                        "Neonatal mortality (#/1,000)": "13",
+                        "Under-five mortality (#/1,000)": "24",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "94.3",
+                        "Secondary school net attendance (%)": "77.1"
+        },
+                    "female":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "99.1",
+                        "Child under-nutrition (%)": "15.4",
+                        "Immunization (%)": "77.4",
+                        "Neonatal mortality (#/1,000)": "10",
+                        "Under-five mortality (#/1,000)": "16",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "93.0",
+                        "Secondary school net attendance (%)": "77.3"
+        }
+    },
+                "nepal":{
+                    "male":{   
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "57.1",
+                        "Child under-nutrition (%)": "36.0",
+                        "Immunization (%)": "77.4",
+                        "Neonatal mortality (#/1,000)": "24",
+                        "Under-five mortality (#/1,000)": "36",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "79.4",
+                        "Secondary school net attendance (%)": "67.9"
+        },
+                    "female":{
+
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "55.2",
+                        "Child under-nutrition (%)": "35.7",
+                        "Immunization (%)": "78.4",
+                        "Neonatal mortality (#/1,000)": "17",
+                        "Under-five mortality (#/1,000)": "41",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "81.0",
+                        "Secondary school net attendance (%)": "65.5"
+            }
+        },
+                "sriLanka":{
+                    "male":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "n.a.",
+                        "Child under-nutrition (%)": "17.9",
+                        "Immunization (%)": "95.2",
+                        "Neonatal mortality (#/1,000)": "9",
+                        "Under-five mortality (#/1,000)": "14",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "97.8",
+                        "Secondary school net attendance (%)": "83.1"
+                         },
+                    "female":{
+                        "Skilled birth attendance (%)": "n.a.",
+                        "Birth registration (%)": "n.a.",
+                        "Child under-nutrition (%)": "16.6",
+                        "Immunization (%)": "96.9",
+                        "Neonatal mortality (#/1,000)": "6",
+                        "Under-five mortality (#/1,000)": "10",
+                        "Improved sanitation (%)": "n.a.",
+                        "Primary school net attendance (%)": "98.1",
+                        "Secondary school net attendance (%)": "83.1"
+                        }
+        }
+    },
+    "location":{
+        "pakistan":{
+            "urban":{
+                "Skilled birth attendance (%)": "84",
+                "Birth registration (%)": "60.3",
+                "Child under-nutrition (%)": "30.7",
+                "Immunization (%)": "70.8",
+                "Neonatal mortality (#/1,000)": "37",
+                "Under-five mortality (#/1,000)": "56",
+                "Improved sanitation (%)": "88.4",
+                "Primary school net attendance (%)": "67.4",
+                "Secondary school net attendance (%)": "48.9"
+            },
+            "rural":{
+                "Skilled birth attendance (%)": "62.6",
+                "Birth registration (%)": "33.6",
+                "Child under-nutrition (%)": "40.9",
+                "Immunization (%)": "63.0",
+                "Neonatal mortality (#/1,000)": "45",
+                "Under-five mortality (#/1,000)": "83",
+                "Improved sanitation (%)": "60.2",
+                "Primary school net attendance (%)": "54.2",
+                "Secondary school net attendance (%)": "32.0"
+        }
+    },
+        "afganistan":{
+            "urban":{
+                "Skilled birth attendance (%)": "78.9",
+                "Birth registration (%)": "60",
+                "Child under-nutrition (%)": "n.a.",
+                "Immunization (%)": "52.8",
+                "Neonatal mortality (#/1,000)": "n.a.",
+                "Under-five mortality (#/1,000)": "85",
+                "Improved sanitation (%)": "(45)44",
+                "Primary school net attendance (%)": "77.8",
+                "Secondary school net attendance (%)": "55.3"
+        },
+            "rural":{
+                "Skilled birth attendance (%)": "42.1",
+                "Birth registration (%)": "33.1",
+                "Child under-nutrition (%)": "n.a.",
+                "Immunization (%)": "43.4",
+                "Neonatal mortality (#/1,000)": "n.a.",
+                "Under-five mortality (#/1,000)": "105",
+                "Improved sanitation (%)": "(27)44",
+                "Primary school net attendance (%)": "50.4",
+                "Secondary school net attendance (%)": "27.1"
+        }
+    },
+        "bangladesh":{
+            "urban":{
+                "Skilled birth attendance (%)": "60.5",
+                "Birth registration (%)": "22.8",
+                "Child under-nutrition (%)": "26.1",
+                "Immunization (%)": "87.6",
+                "Neonatal mortality (#/1,000)": "21",
+                "Under-five mortality (#/1,000)": "37",
+                "Improved sanitation (%)": "(58)44",
+                "Primary school net attendance (%)": "84.8",
+                "Secondary school net attendance (%)": "41.6"
+        },
+            "rural":{
+                "Skilled birth attendance (%)": "35.6",
+                "Birth registration (%)": "19.3",
+                "Child under-nutrition (%)": "34.8",
+                "Immunization (%)": "82.5",
+                "Neonatal mortality (#/1,000)": "31",
+                "Under-five mortality (#/1,000)": "49",
+                "Improved sanitation (%)": "(62)44",
+                "Primary school net attendance (%)": "87",
+                "Secondary school net attendance (%)": "43.3"
+        }
+    },
+        "bhutan":{
+            "urban":{
+                "Skilled birth attendance (%)": "89.5",
+                "Birth registration (%)": "100",
+                "Child under-nutrition (%)": "10.46",
+                "Immunization (%)": "n.a.",
+                "Neonatal mortality (#/1,000)": "n.a.",
+                "Under-five mortality (#/1,000)": "41",
+                "Improved sanitation (%)": "(78)44",
+                "Primary school net attendance (%)": "96.3",
+                "Secondary school net attendance (%)": "75"
+        },
+            "rural":{
+                "Skilled birth attendance (%)": "54.3", 
+                "Birth registration (%)": "99.84",
+                "Child under-nutrition (%)": "13.6",
+                "Immunization (%)": "n.a.",
+                "Neonatal mortality (#/1,000)": "n.a.",
+                "Under-five mortality (#/1,000)": "81",
+                "Improved sanitation (%)": "(33)44",
+                "Primary school net attendance (%)": "90.2",
+                "Secondary school net attendance (%)": "46.7"
+            }
+        },
+        "india":{
+            "urban":{
+                "Skilled birth attendance (%)": "90.0",
+                "Birth registration (%)": "88.8",
+                "Child under-nutrition (%)": "31.0",
+                "Immunization (%)": "63.8",
+                "Neonatal mortality (#/1,000)": "20.1",
+                "Under-five mortality (#/1,000)": "34.4",
+                "Improved sanitation (%)": "70.3",
+                "Primary school net attendance (%)": "96.6",
+                "Secondary school net attendance (%)": "92.6"
+        },
+        "rural":{
+            "Skilled birth attendance (%)": "78.0",
+            "Birth registration (%)": "76.1",
+            "Child under-nutrition (%)": "41.2",
+            "Immunization (%)": "61.3",
+            "Neonatal mortality (#/1,000)": "33.1",
+            "Under-five mortality (#/1,000)": "55.8",
+            "Improved sanitation (%)": "36.7",
+            "Primary school net attendance (%)": "94.5",
+            "Secondary school net attendance (%)": "89.6"
+        }
+        },
+        "maldives":{
+            "malé":{
+                "Skilled birth attendance (%)": "99.2",
+                "Birth registration (%)": "98.3",
+                "Child under-nutrition (%)": "15.3",
+                "Immunization (%)": "91.0",
+                "Neonatal mortality (#/1,000)": "13",
+                "Under-five mortality (#/1,000)": "24",
+                "Improved sanitation (%)": "(98.9)30",
+                "Primary school net attendance (%)": "91.9",
+                "Secondary school net attendance (%)": "77.8"
+        },
+            "other atolls":{
+                "Skilled birth attendance (%)": "99.7",
+                "Birth registration (%)": "99.2",
+                "Child under-nutrition (%)": "14.6",
+                "Immunization (%)": "88.1",
+                "Neonatal mortality (#/1,000)": "10",
+                "Under-five mortality (#/1,000)": "19",
+                "Improved sanitation (%)": "(97.8)30",
+                "Primary school net attendance (%)": "94.6",
+                "Secondary school net attendance (%)": "76.5"
+            }
+         },   
+        "nepal":{
+            "urban":{
+            "Skilled birth attendance (%)": "67.7",
+            "Birth registration (%)": "54.4",
+            "Child under-nutrition (%)": "32.0",
+            "Immunization (%)": "78.5",
+            "Neonatal mortality (#/1,000)": "16",
+            "Under-five mortality (#/1,000)": "34",
+            "Improved sanitation (%)": "61.1",
+            "Primary school net attendance (%)": "82.8",
+            "Secondary school net attendance (%)": "71.3"
+        },
+            "rural":{
+            "Skilled birth attendance (%)": "46.8",
+            "Birth registration (%)": "57.8",
+            "Child under-nutrition (%)": "40.2",
+            "Immunization (%)": "77.0",
+            "Neonatal mortality (#/1,000)": "26",
+            "Under-five mortality (#/1,000)": "44",
+            "Improved sanitation (%)": "62.9",
+            "Primary school net attendance (%)": "77.1",
+            "Secondary school net attendance (%)": "60.5"
+        }
+        },
+        "sri lanka":{
+            "urban":{
+                "Skilled birth attendance (%)": "99.6",
+                "Birth registration (%)": "n.a.",
+                "Child under-nutrition (%)": "14.7",
+                "Immunization (%)": "93.2",
+                "Neonatal mortality (#/1,000)": "7",
+                "Under-five mortality (#/1,000)": "11",
+                "Improved sanitation (%)": "90.8",
+                "Primary school net attendance (%)": "97.7",
+                "Secondary school net attendance (%)": "83.8"
+        },
+            "rural":{
+                "Skilled birth attendance (%)": "99.5",
+                "Birth registration (%)": "n.a.",
+                "Child under-nutrition (%)": "17.0",
+                "Immunization (%)": "96.6",
+                "Neonatal mortality (#/1,000)": "7",
+                "Under-five mortality (#/1,000)": "12",
+                "Improved sanitation (%)": "90.3",
+                "Primary school net attendance (%)": "98.1",
+                "Secondary school net attendance (%)": "83.0"
+        }
+        },
+            "estate":{
+                "Skilled birth attendance (%)": "99.6",
+                "Birth registration (%)": "n.a.",
+                "Child under-nutrition (%)": "31.7",
+                "Immunization (%)": "94.7",
+                "Neonatal mortality (#/1,000)": "8",
+                "Under-five mortality (#/1,000)": "15",
+                "Improved sanitation (%)": "78.7",
+                "Primary school net attendance (%)": "96.1",
+                "Secondary school net attendance (%)": "81.6"
+        }
+    }
+},
+"wealth quintile":{
+    "pakistan":{
+        "poorest":{
+            "Skilled birth attendance (%)": "46.0",
+            "Birth registration (%)": "9.3",
+            "Child under-nutrition (%)": "56.5",
+            "Immunization (%)": "49.6",
+            "Neonatal mortality (#/1,000)": "51",
+            "Under-five mortality (#/1,000)": "100",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "36.3",
+            "Secondary school net attendance (%)": "14.4"
+        },
+        "second":{
+            "Skilled birth attendance (%)": "57.6",
+            "Birth registration (%)": "27.3",
+            "Child under-nutrition (%)": "44.9",
+            "Immunization (%)": "75.8",
+            "Neonatal mortality (#/1,000)": "48",
+            "Under-five mortality (#/1,000)": "82",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "55.4",
+            "Secondary school net attendance (%)": "27.7"
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "72.3",
+            "Birth registration (%)": "44.2",
+            "Child under-nutrition (%)": "31.6",
+            "Immunization (%)": "81.4",
+            "Neonatal mortality (#/1,000)": "44",
+            "Under-five mortality (#/1,000)": "82",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "65.8",
+            "Secondary school net attendance (%)": "39.5"
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "84.3",
+            "Birth registration (%)": "63.4",
+            "Child under-nutrition (%)": "30.4",
+            "Immunization (%)": "77.6",
+            "Neonatal mortality (#/1,000)": "34",
+            "Under-five mortality (#/1,000)": "58",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "72.3",
+            "Secondary school net attendance (%)": "51.9"
+        },
+        "richest":{
+            "Skilled birth attendance (%)": "93.2",
+            "Birth registration (%)": "76.0",
+            "Child under-nutrition (%)": "22.0",
+            "Immunization (%)": "81.8",
+            "Neonatal mortality (#/1,000)": "43",
+            "Under-five mortality (#/1,000)": "56",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "73.6",
+            "Secondary school net attendance (%)": "66.3"
+        }
+        },
+    "afganistan":{
+        "poorest": {
+            "Skilled birth attendance (%)": "24",
+            "Birth registration (%)": "31.4",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "38.4",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "104",
+            "Improved sanitation (%)": "7.9",
+            "Primary school net attendance (%)": "40",
+            "Secondary school net attendance (%)": "15.6"
+    },
+       "second":{
+            "Skilled birth attendance (%)": "36.9",
+            "Birth registration (%)": "33.6",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "41.3",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "94",
+            "Improved sanitation (%)": "18.5",
+            "Primary school net attendance (%)": "47",
+            "Secondary school net attendance (%)": "22.3"
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "43.6",
+            "Birth registration (%)": "30.1",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "40.5",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "112",
+            "Improved sanitation (%)": "27.2",
+            "Primary school net attendance (%)": "50.4",
+            "Secondary school net attendance (%)": "26.4"
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "64.9",
+            "Birth registration (%)": "37.4",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "51.7",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "113",
+            "Improved sanitation (%)": "35",
+            "Primary school net attendance (%)": "61.2",
+            "Secondary school net attendance (%)": "36.8"
+        },
+        "richest":{
+            "Country": "afganistan",
+            "Domain of analysis": "wealth quintile",
+            "Category": "richest",
+            "Skilled birth attendance (%)": "85.2",
+            "Birth registration (%)": "58.1",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "55.5",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "84",
+            "Improved sanitation (%)": "53.6",
+            "Primary school net attendance (%)": "79",
+            "Secondary school net attendance (%)": "55.9"
+        }
+        },
+    "bangladesh":{
+        "poorest":{
+            "Skilled birth attendance (%)": "17.9",
+            "Birth registration (%)": "15.4",
+            "Child under-nutrition (%)": "45.1",
+            "Immunization (%)": "69.4",
+            "Neonatal mortality (#/1,000)": "35",
+            "Under-five mortality (#/1,000)": "53",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "84.1",
+            "Secondary school net attendance (%)": "29.6"
+        },
+        "second":{
+            "Skilled birth attendance (%)": "29.9",
+            "Birth registration (%)": "18.7",
+            "Child under-nutrition (%)": "38.7",
+            "Immunization (%)": "83.4",
+            "Neonatal mortality (#/1,000)": "35",
+            "Under-five mortality (#/1,000)": "63",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "87.5",
+            "Secondary school net attendance (%)": "38.1"
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "38.8",
+            "Birth registration (%)": "17.5",
+            "Child under-nutrition (%)": "32.1",
+            "Immunization (%)": "87.2",
+            "Neonatal mortality (#/1,000)": "34",
+            "Under-five mortality (#/1,000)": "47",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "89.3",
+            "Secondary school net attendance (%)": "47.6"
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "52.0",
+            "Birth registration (%)": "20.4",
+            "Child under-nutrition (%)": "27.3",
+            "Immunization (%)": "90",
+            "Neonatal mortality (#/1,000)": "23",
+            "Under-five mortality (#/1,000)": "37",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "86.6",
+            "Secondary school net attendance (%)": "48.2"
+        },
+        "richest":{
+            "Skilled birth attendance (%)": "74.4",
+            "Birth registration (%)": "28",
+            "Child under-nutrition (%)": "17.4",
+            "Immunization (%)": "91.9",
+            "Neonatal mortality (#/1,000)": "14",
+            "Under-five mortality (#/1,000)": "30",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "85.2",
+            "Secondary school net attendance (%)": "49.9"
+        }
+        },
+    "bhutan":{
+        "poorest":{
+            "Skilled birth attendance (%)": "34.31",
+            "Birth registration (%)": "99.67",
+            "Child under-nutrition (%)": "16.13",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "106",
+            "Improved sanitation (%)": "31.61",
+            "Primary school net attendance (%)": "84.73",
+            "Secondary school net attendance (%)": "30.72"
+        },
+        "second":{
+            "Skilled birth attendance (%)": "43.31",
+            "Birth registration (%)": "99.81",
+            "Child under-nutrition (%)": "16.13",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "88",
+            "Improved sanitation (%)": "47.33",
+            "Primary school net attendance (%)": "88.76",
+            "Secondary school net attendance (%)": "38.64"
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "67.3",
+            "Birth registration (%)": "99.96",
+            "Child under-nutrition (%)": "14.04",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "74",
+            "Improved sanitation (%)": "50.63",
+            "Primary school net attendance (%)": "93.53",
+            "Secondary school net attendance (%)": "50.82"
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "80.9",
+            "Birth registration (%)": "100",
+            "Child under-nutrition (%)": "10.28",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "39",
+            "Improved sanitation (%)": "68",
+            "Primary school net attendance (%)": "95.82",
+            "Secondary school net attendance (%)": "68.14"
+        },
+        "richest":{
+            "Skilled birth attendance (%)": "95.14",
+            "Birth registration (%)": "100",
+            "Child under-nutrition (%)": "7.3",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "39",
+            "Improved sanitation (%)": "94.5",
+            "Primary school net attendance (%)": "96.96",
+            "Secondary school net attendance (%)": "81.33"
+        }
+        },
+    "india":{
+        "poorest":{
+            "Skilled birth attendance (%)": "64.1",
+            "Birth registration (%)": "63.8",
+            "Child under-nutrition (%)": "51.4",
+            "Immunization (%)": "52.8",
+            "Neonatal mortality (#/1,000)": "40.7",
+            "Under-five mortality (#/1,000)": "72.3",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "second":{
+            "Skilled birth attendance (%)": "78.3",
+            "Birth registration (%)": "77.3",
+            "Child under-nutrition (%)": "43.5",
+            "Immunization (%)": "60.6",
+            "Neonatal mortality (#/1,000)": "34.2",
+            "Under-five mortality (#/1,000)": "58.2",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "86.8",
+            "Birth registration (%)": "84.1",
+            "Child under-nutrition (%)": "36.5",
+            "Immunization (%)": "64.2",
+            "Neonatal mortality (#/1,000)": "28.0",
+            "Under-five mortality (#/1,000)": "44.8",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "91.8",
+            "Birth registration (%)": "88.6",
+            "Child under-nutrition (%)": "29.2",
+            "Immunization (%)": "66.9",
+            "Neonatal mortality (#/1,000)": "21.6",
+            "Under-five mortality (#/1,000)": "37.1",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "richest":{
+            "Skilled birth attendance (%)": "95.5",
+            "Birth registration (%)": "92.9",
+            "Child under-nutrition (%)": "22.2",
+            "Immunization (%)": "70.0",
+            "Neonatal mortality (#/1,000)": "14.6",
+            "Under-five mortality (#/1,000)": "26.1",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "maldives":{
+        "poorest":{
+            "Skilled birth attendance (%)": "100",
+            "Birth registration (%)": "98.9",
+            "Child under-nutrition (%)": "16.9",
+            "Immunization (%)": "89.7",
+            "Neonatal mortality (#/1,000)": "8",
+            "Under-five mortality (#/1,000)": "15",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "96",
+            "Secondary school net attendance (%)": "75.2"
+        },
+        "second":{
+            "Skilled birth attendance (%)": "99.9",
+            "Birth registration (%)": "99.2",
+            "Child under-nutrition (%)": "15.4",
+            "Immunization (%)": "90.1",
+            "Neonatal mortality (#/1,000)": "12",
+            "Under-five mortality (#/1,000)": "22",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "95.0",
+            "Secondary school net attendance (%)": "76.9"
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "99.3",
+            "Birth registration (%)": "99.1",
+            "Child under-nutrition (%)": "12.5",
+            "Immunization (%)": "86.6",
+            "Neonatal mortality (#/1,000)": "9",
+            "Under-five mortality (#/1,000)": "23",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "93.1",
+            "Secondary school net attendance (%)": "78.2"
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "99.4",
+            "Birth registration (%)": "99.0",
+            "Child under-nutrition (%)": "16.4",
+            "Immunization (%)": "92.0",
+            "Neonatal mortality (#/1,000)": "15",
+            "Under-five mortality (#/1,000)": "26",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "92.5",
+            "Secondary school net attendance (%)": "81.6"
+        },
+        "richest":{
+            "Skilled birth attendance (%)": "99.1",
+            "Birth registration (%)": "97.8",
+            "Child under-nutrition (%)": "12.2",
+            "Immunization (%)": "87.4",
+            "Neonatal mortality (#/1,000)": "21",
+            "Under-five mortality (#/1,000)": "n.a.",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "100.0",
+            "Secondary school net attendance (%)": "73.7"
+        }
+        },
+    "nepal":{
+        "poorest":{
+            "Skilled birth attendance (%)": "33.9",
+            "Birth registration (%)": "58.1",
+            "Child under-nutrition (%)": "49.2",
+            "Immunization (%)": "76.6",
+            "Neonatal mortality (#/1,000)": "36",
+            "Under-five mortality (#/1,000)": "62",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "85.0",
+            "Secondary school net attendance (%)": "65.6"
+        },
+        "second":{
+            "Skilled birth attendance (%)": "48",
+            "Birth registration (%)": "58.7",
+            "Child under-nutrition (%)": "39",
+            "Immunization (%)": "77.2",
+            "Neonatal mortality (#/1,000)": "33",
+            "Under-five mortality (#/1,000)": "54",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "76.9",
+            "Secondary school net attendance (%)": "65.1"
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "59.4",
+            "Birth registration (%)": "54.5",
+            "Child under-nutrition (%)": "35.7",
+            "Immunization (%)": "70.9",
+            "Neonatal mortality (#/1,000)": "26",
+            "Under-five mortality (#/1,000)": "46",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "75.2",
+            "Secondary school net attendance (%)": "59.3"
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "70.0",
+            "Birth registration (%)": "55",
+            "Child under-nutrition (%)": "32.4",
+            "Immunization (%)": "84.8",
+            "Neonatal mortality (#/1,000)": "20",
+            "Under-five mortality (#/1,000)": "36",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "79.0",
+            "Secondary school net attendance (%)": "67.1"
+        },
+        "richest":{
+            "Skilled birth attendance (%)": "88.7",
+            "Birth registration (%)": "54.1",
+            "Child under-nutrition (%)": "16.5",
+            "Immunization (%)": "81.6",
+            "Neonatal mortality (#/1,000)": "12",
+            "Under-five mortality (#/1,000)": "24",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "85.4",
+            "Secondary school net attendance (%)": "78.9"
+        },
+    "sri lanka":{
+        "poorest":{
+            "Skilled birth attendance (%)": "99.2",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "25.2",
+            "Immunization (%)": "97.1",
+            "Neonatal mortality (#/1,000)": "10",
+            "Under-five mortality (#/1,000)": "17",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "97.0",
+            "Secondary school net attendance (%)": "81.7"
+        },
+        "second":{ 
+            "Skilled birth attendance (%)": "99.7",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "18.9",
+            "Immunization (%)": "97.7",
+            "Neonatal mortality (#/1,000)": "7",
+            "Under-five mortality (#/1,000)": "10",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "97.3",
+            "Secondary school net attendance (%)": "82.6"
+        },
+        "middle":{
+            "Skilled birth attendance (%)": "99.6",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "15.9",
+            "Immunization (%)": "97.8",
+            "Neonatal mortality (#/1,000)": "6",
+            "Under-five mortality (#/1,000)": "10",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "98.5",
+            "Secondary school net attendance (%)": "84.2"
+        },
+        "fourth":{
+            "Skilled birth attendance (%)": "99.4",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "14.0",
+            "Immunization (%)": "94.5",
+            "Neonatal mortality (#/1,000)": "8",
+            "Under-five mortality (#/1,000)": "14",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "98.9",
+            "Secondary school net attendance (%)": "84.6"
+        },
+        "richest":{
+            "Skilled birth attendance (%)": "99.7",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "11.7",
+            "Immunization (%)": "93.1",
+            "Neonatal mortality (#/1,000)": "6",
+            "Under-five mortality (#/1,000)": "9",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "98.1",
+            "Secondary school net attendance (%)": "82.4"
+        }
+    }
+},
+"division":{
+    "pakistan":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "38.2        (Balochistan)",
+            "Birth registration (%)": "2.2 (FATA)",
+            "Child under-nutrition (%)": "52.3                                (FATA)",
+            "Immunization (%)": "28.8  (Balochistan)",
+            "Neonatal mortality (#/1,000)": "51      (Punjab)",
+            "Under-five mortality (#/1,000)": "85        (Punjab)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "40.1(FATA)",
+            "Secondary school net attendance (%)": "17.9   (FATA)"
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "86.6      (ICT Islm.)",
+            "Birth registration (%)": "82.4 (ICT Islm.)",
+            "Child under-nutrition (%)": "24.4         (ICT Islm)",
+            "Immunization (%)": "79.9      (Punjab)",
+            "Neonatal mortality (#/1,000)": "18  (FATA)",
+            "Under-five mortality (#/1,000)": "33     (FATA)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "74.1       (ICT Islm.)",
+            "Secondary school net attendance (%)": "59.3            (ICT Islm.)"
+       }
+        },
+    "afganistan":{    
+        "worst-performing":{
+            "Skilled birth attendance (%)": " 1.1             (Nooristan)",
+            "Birth registration (%)": "18.9             (South East)",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "0.7                                (Nooristan)",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "127             (West)",
+            "Improved sanitation (%)": "16.5           (North East)",
+            "Primary school net attendance (%)": " 21.9                                (South)",
+            "Secondary school net attendance (%)": " 12.1                         (South)"
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "84.5            (Kabul)",
+            "Birth registration (%)": "60.2             (Central)",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "74.5                      (Paktika)",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "65                 (East)",
+            "Improved sanitation (%)": "39.6                  (East)",
+            "Primary school net attendance (%)": "77.9                             (Central)",
+            "Secondary school net attendance (%)": " 50.5                       (Central)"
+        }
+        },
+    "bangladesh":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "27.1(Sylhet)",
+            "Birth registration (%)": "13 (Rajshahi)",
+            "Child under-nutrition (%)": "39.8       (Sylhet)",
+            "Immunization (%)": "61.1       (Sylhet)",
+            "Neonatal mortality (#/1,000)": "41        (Khulna)",
+            "Under-five mortality (#/1,000)": "67      (Sylhet)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "83.8         (Dhaka)",
+            "Secondary school net attendance (%)": "34.4             (Sylhet)"
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "58.2(Khulna)",
+            "Birth registration (%)": "26.3    (Sylhet)",
+            "Child under-nutrition (%)": "25.5       (Khulna)",
+            "Immunization (%)": "90     (Rangpur)",
+            "Neonatal mortality (#/1,000)": "21        (Barisal)",
+            "Under-five mortality (#/1,000)": "35   (Barisal)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "91           (Barisal)",
+            "Secondary school net attendance (%)": "50              (Khulna)"
+        }
+        },
+    "bhutan":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "37.7 (Zhemgang) ",
+            "Birth registration (%)": "98.8      (Gasa)",
+            "Child under-nutrition (%)": "10.28      (Trongsa) ",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "87                (Eastern) ",
+            "Improved sanitation (%)": "31                       (P Gatshel) ",
+            "Primary school net attendance (%)": "75                (Gasa)",
+            "Secondary school net attendance (%)": "33.1                    (Trashi Yangtse)"
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "94.4           (Thimpu) ",
+            "Birth registration (%)": "100",
+            "Child under-nutrition (%)": "9.78               (Haa) ",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "61                       (Wst / Ctl) ",
+            "Improved sanitation (%)": "80             (Bumthang)",
+            "Primary school net attendance (%)": "97.6              (Bumthang)",
+            "Secondary school net attendance (%)": "76.2                  (Thimpu)"
+        }
+        },
+    "india":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "n.a.",
+            "Birth registration (%)": "60.2      (Uttar Pradesh)",
+            "Child under-nutrition (%)": "48.3                          (Bihar)",
+            "Immunization (%)": "35.4      (Nagaland)",
+            "Neonatal mortality (#/1,000)": "45.1 (Uttar Pradesh)",
+            "Under-five mortality (#/1,000)": "78.1              (U Pradesh)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "n.a.",
+            "Birth registration (%)": "99.1        (Lakshadweep)",
+            "Child under-nutrition (%)": "19.7          (Kerala)",
+            "Immunization (%)": "91.2           (Puducherry)",
+            "Neonatal mortality (#/1,000)": "4.4         (Kerala)",
+            "Under-five mortality (#/1,000)": "7.7   (Kerala)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "maldives":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "99.2          (Malé)",
+            "Birth registration (%)": "98.3         (Malé)",
+            "Child under-nutrition (%)": "18.5                    (North Central)",
+            "Immunization (%)": "81.0       (South)",
+            "Neonatal mortality (#/1,000)": "17                (South)",
+            "Under-five mortality (#/1,000)": "24             (South)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "91.9              (Malé)",
+            "Secondary school net attendance (%)": "73.0               (North Central)"
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "99.9          (South Central)",
+            "Birth registration (%)": "99.7        (North Central)",
+            "Child under-nutrition (%)": "11.3                      (Central & South Central)",
+            "Immunization (%)": "82.8                (Malé)",
+            "Neonatal mortality (#/1,000)": "7 (North)",
+            "Under-five mortality (#/1,000)": "15      (North Central)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "97.0               (North)",
+            "Secondary school net attendance (%)": "80.0                   (North)"
+        }
+        },
+    "nepal":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "35.3            (Prov. 6)",
+            "Birth registration (%)": "45.0    (Prov. 2)",
+            "Child under-nutrition (%)": "54.5        (Prov. 6)",
+            "Immunization (%)": "65.2      (Prov. 2)",
+            "Neonatal mortality (#/1,000)": "41                (Prov. 6)",
+            "Under-five mortality (#/1,000)": "69           (Prov. 7)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "67.6                   (Prov. 2)",
+            "Secondary school net attendance (%)": "41.7                            (Prov. 2)"
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "69.9          (Prov. 3&4)",
+            "Birth registration (%)": "64.9(Prov. 6)",
+            "Child under-nutrition (%)": "29.4      (Prov. 3)",
+            "Immunization (%)": "85.3        (prov. 3)",
+            "Neonatal mortality (#/1,000)": "15           (Prov. 4)",
+            "Under-five mortality (#/1,000)": "27            (Prov. 4)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "87.0                      (Prov. 3)",
+            "Secondary school net attendance (%)": "81.3                      (Prov. 4)"
+        }
+        },
+    "sri lanka":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "99.2        (Ratnapurna)",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "32.4          (Nuwara Eliya)",
+            "Immunization (%)": "81.0           (Mannar)",
+            "Neonatal mortality (#/1,000)": "25      (Trincomalee)",
+            "Under-five mortality (#/1,000)": "22         (Puttalam)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "94.1           (Jaffna)",
+            "Secondary school net attendance (%)": "77.7         (Puttalam)"
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "100.0      (Multiple districts)",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "11.7          (Puttalam)",
+            "Immunization (%)": "100.0           (Multiple districts)",
+            "Neonatal mortality (#/1,000)": "2         (Gampaha)",
+            "Under-five mortality (#/1,000)": "7         (Multiple districts)",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "99.7         (Matale)",
+            "Secondary school net attendance (%)": "86.0           (Matale)"
+        }
+    }
+},
+"mother's education":{
+    "pakistan":{
+        "no education":{
+            "Skilled birth attendance (%)": "55.8",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "47.8",
+            "Immunization (%)": "49.6",
+            "Neonatal mortality (#/1,000)": "48",
+            "Under-five mortality (#/1,000)": "91",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "94.1",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "15.8",
+            "Immunization (%)": "81.8",
+            "Neonatal mortality (#/1,000)": "31",
+            "Under-five mortality (#/1,000)": "38",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "afganistan":{
+        "no education": {
+            "Skilled birth attendance (%)": "45",
+            "Birth registration (%)": "35.5",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "42.4",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "103",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "52.6",
+            "Secondary school net attendance (%)": "31.2"
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "97.3",
+            "Birth registration (%)": "66.9",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)": "65",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "73",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "92.2",
+            "Secondary school net attendance (%)": "81.3"
+        }
+        },
+    "bangladesh":{
+        "no education":{
+            "Skilled birth attendance (%)": "17.1",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "41.9",
+            "Immunization (%)": "73.8",
+            "Neonatal mortality (#/1,000)": "26",
+            "Under-five mortality (#/1,000)": "80",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "35.6"
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "74.4",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "17.9",
+            "Immunization (%)": "87.9",
+            "Neonatal mortality (#/1,000)": "13",
+            "Under-five mortality (#/1,000)": "35",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "72.1"
+        }
+        },
+    "bhutan":{
+        "no education":{
+            "Skilled birth attendance (%)": "53.57",
+            "Birth registration (%)": "99.84",
+            "Child under-nutrition (%)": "14.37",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "77",
+            "Improved sanitation (%)": "50.53",
+            "Primary school net attendance (%)": "90.65",
+            "Secondary school net attendance (%)": "50.29"
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "93.56",
+            "Birth registration (%)": "99.97",
+            "Child under-nutrition (%)": "8.11",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "31",
+            "Improved sanitation (%)": "82.74",
+            "Primary school net attendance (%)": "95.77",
+            "Secondary school net attendance (%)": "71.29"
+        }
+        },
+    "india":{
+        "no education":{
+            "Skilled birth attendance (%)": "66.0",
+            "Birth registration (%)": "63.8",
+            "Child under-nutrition (%)": "50.7",
+            "Immunization (%)": "51.5",
+            "Neonatal mortality (#/1,000)": "37.2",
+            "Under-five mortality (#/1,000)": "67.5",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "94.9",
+            "Birth registration (%)": "90.6",
+            "Child under-nutrition (%)": "23.8",
+            "Immunization (%)": "67.6",
+            "Neonatal mortality (#/1,000)": "17.9",
+            "Under-five mortality (#/1,000)": "26.5",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "maldives":{
+        "no education":{
+            "Skilled birth attendance (%)": "100.0",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "2.7",
+            "Immunization (%)": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "n.a.",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "100.0",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "11.9",
+            "Immunization (%)": "83.0",
+            "Neonatal mortality (#/1,000)": "21",
+            "Under-five mortality (#/1,000)": "27",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "nepal":{
+        "no education":{
+            "Skilled birth attendance (%)": "37.6",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "45.7",
+            "Immunization (%)": "67.8",
+            "Neonatal mortality (#/1,000)": "36",
+            "Under-five mortality (#/1,000)": "60",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "84.9",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "22.7",
+            "Immunization (%)": "91",
+            "Neonatal mortality (#/1,000)": "12",
+            "Under-five mortality (#/1,000)": "21",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "sri lanka":{
+        "no education":{
+            "Skilled birth attendance (%)": "100.0",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "37.6",
+            "Immunization (%)": "99.4",
+            "Neonatal mortality (#/1,000)": "9",
+            "Under-five mortality (#/1,000)": "14",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "highest education":{
+            "Skilled birth attendance (%)": "99.8",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "12.1",
+            "Immunization (%)": "93.8",
+            "Neonatal mortality (#/1,000)": "3",
+            "Under-five mortality (#/1,000)": "6",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+    }
+},
+"caste and ethnicity":{
+    "india":{
+    "worst-performing":{
+            "Skilled birth attendance (%)": "71.5",
+            "Birth registration (%)": "75.7",
+            "Child under-nutrition (%)": "43.8",
+            "Immunization (%)": "46.0",
+            "Neonatal mortality (#/1,000)": "33.0",
+            "Under-five mortality (#/1,000)": "57.2",
+            "Improved sanitation (%)": "n.a.",
+            "School attendance 6-10 yrs. old (%)": "n.a.",
+            "School attendance 11-13 yrs. old (%)": "n.a."
+        },
+    "best-performing":{
+            "Skilled birth attendance (%)": "85.3",
+            "Birth registration (%)": "86.8",
+            "Child under-nutrition (%)": "31.2",
+            "Immunization (%)": "64.5",
+            "Neonatal mortality (#/1,000)": "23.2",
+            "Under-five mortality (#/1,000)": "38.5",
+            "Improved sanitation (%)": "n.a.",
+            "School attendance 6-10 yrs. old (%)": "n.a.",
+            "School attendance 11-13 yrs. old (%)": "n.a."
+        }
+    }
+},
+"religion":{
+    "india":{
+        "worst-performing":{
+            "Skilled birth attendance (%)": "61.0",
+            "Birth registration (%)": "75.5",
+            "Child under-nutrition (%)": "43.0",
+            "Immunization (%)": "55.9",
+            "Neonatal mortality (#/1,000)": "30.5",
+            "Under-five mortality (#/1,000)": "50.5",
+            "Improved sanitation (%)": "n.a.",
+            "School attendance 6-10 yrs. old (%)": "n.a.",
+            "School attendance 11-13 yrs. old (%)": "n.a."
+        },
+        "best-performing":{
+            "Skilled birth attendance (%)": "95.4",
+            "Birth registration (%)": "97.0",
+            "Child under-nutrition (%)": "23.4",
+            "Immunization (%)": "88.9",
+            "Neonatal mortality (#/1,000)": "15.1",
+            "Under-five mortality (#/1,000)": "23.2",
+            "Improved sanitation (%)": "n.a.",
+            "School attendance 6-10 yrs. old (%)": "n.a.",
+            "School attendance 11-13 yrs. old (%)": "n.a."
+        }
+    }
+
+},
+"disparity gap":{
+    "pakistan":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "0.6",
+            "Child under-nutrition (%)": "1.1",
+            "Immunization (%)14": "4.9",
+            "Neonatal mortality (#/1,000)": "19",
+            "Under-five mortality (#/1,000)": "12",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "6",
+            "Secondary school net attendance (%)": "4.3"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "21.2",
+            "Birth registration (%)": "26.7",
+            "Child under-nutrition (%)": "10.2",
+            "Immunization (%)14": "7.8",
+            "Neonatal mortality (#/1,000)": "8",
+            "Under-five mortality (#/1,000)": "27",
+            "Improved sanitation (%)": "32",
+            "Primary school net attendance (%)": "13.2",
+            "Secondary school net attendance (%)": "16.9"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": "47.2",
+            "Birth registration (%)": "66.7",
+            "Child under-nutrition (%)": "34.5",
+            "Immunization (%)14": "32.2",
+            "Neonatal mortality (#/1,000)": "17",
+            "Under-five mortality (#/1,000)": "44",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "36",
+            "Secondary school net attendance (%)": "51.9"
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": "48.4",
+            "Birth registration (%)": "63.6",
+            "Child under-nutrition (%)": "23.6",
+            "Immunization (%)14": "37.4",
+            "Neonatal mortality (#/1,000)": "33",
+            "Under-five mortality (#/1,000)": "45",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "29.1",
+            "Secondary school net attendance (%)": "35.4"
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": "54",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "32",
+            "Immunization (%)14": "32.2",
+            "Neonatal mortality (#/1,000)": "17",
+            "Under-five mortality (#/1,000)": "53",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "afganistan":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "1.8",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)14": "1.4",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "9",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "16.5",
+            "Secondary school net attendance (%)": "21.7"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "36.8",
+            "Birth registration (%)": "26.9",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)14": "9.4",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "20",
+            "Improved sanitation (%)": "18",
+            "Primary school net attendance (%)": "27.4",
+            "Secondary school net attendance (%)": "28.2"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": "61.2",
+            "Birth registration (%)": "28",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)14": "17.1",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "29",
+            "Improved sanitation (%)": "45.7",
+            "Primary school net attendance (%)": "39",
+            "Secondary school net attendance (%)": "40.3"
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": "83.4",
+            "Birth registration (%)": "41.3",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)14": "73.8",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "62",
+            "Improved sanitation (%)": "23.1",
+            "Primary school net attendance (%)": "56",
+            "Secondary school net attendance (%)": "38.4"
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": "52.3",
+            "Birth registration (%)": "31.4",
+            "Child under-nutrition (%)": "n.a.",
+            "Immunization (%)14": "22.7",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "30",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "39.6",
+            "Secondary school net attendance (%)": "50.1"
+        }
+        },
+    "bangladesh":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "0.3",
+            "Child under-nutrition (%)": "0.9",
+            "Immunization (%)14": "0.5",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "n.a.",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "1.8",
+            "Secondary school net attendance (%)": "1.6"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "24.9",
+            "Birth registration (%)": "3.5",
+            "Child under-nutrition (%)": "8.7",
+            "Immunization (%)14": "5.1",
+            "Neonatal mortality (#/1,000)": "10",
+            "Under-five mortality (#/1,000)": "12",
+            "Improved sanitation (%)": "4",
+            "Primary school net attendance (%)": "2.2",
+            "Secondary school net attendance (%)": "1.7"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": "56.5",
+            "Birth registration (%)": "12.6",
+            "Child under-nutrition (%)": "27.7",
+            "Immunization (%)14": "22.5",
+            "Neonatal mortality (#/1,000)": "21",
+            "Under-five mortality (#/1,000)": "33",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "5.2",
+            "Secondary school net attendance (%)": "20.3"
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": "31.1",
+            "Birth registration (%)": "13.3",
+            "Child under-nutrition (%)": "14.3",
+            "Immunization (%)14": "28.9",
+            "Neonatal mortality (#/1,000)": "20",
+            "Under-five mortality (#/1,000)": "32",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "7.2",
+            "Secondary school net attendance (%)": "15.6"
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": "57.3",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "24",
+            "Immunization (%)14": "14.1",
+            "Neonatal mortality (#/1,000)": "13",
+            "Under-five mortality (#/1,000)": "45",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "36.5"
+        }
+        },
+    "bhutan":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "0.14",
+            "Child under-nutrition (%)": "1.32",
+            "Immunization (%)14": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "21",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "-1.5",
+            "Secondary school net attendance (%)": "1.7"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "35.2",
+            "Birth registration (%)": "0.16",
+            "Child under-nutrition (%)": "3.14",
+            "Immunization (%)14": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "40",
+            "Improved sanitation (%)": "45",
+            "Primary school net attendance (%)": "6.1",
+            "Secondary school net attendance (%)": "28.3"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": " 61 ",
+            "Birth registration (%)": "0.33",
+            "Child under-nutrition (%)": "8.83",
+            "Immunization (%)14": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "67",
+            "Improved sanitation (%)": "62.89",
+            "Primary school net attendance (%)": "12.23",
+            "Secondary school net attendance (%)": "50.61"
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": " 57 ",
+            "Birth registration (%)": "1.2",
+            "Child under-nutrition (%)": "0.5",
+            "Immunization (%)14": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "26",
+            "Improved sanitation (%)": "49",
+            "Primary school net attendance (%)": "22.6",
+            "Secondary school net attendance (%)": "43.1"
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": " 40 ",
+            "Birth registration (%)": "0.13",
+            "Child under-nutrition (%)": "6.26",
+            "Immunization (%)14": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "46",
+            "Improved sanitation (%)": "32.21",
+            "Primary school net attendance (%)": "5.12",
+            "Secondary school net attendance (%)": "21"
+        }
+        },
+    "india":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "0.7",
+            "Child under-nutrition (%)": "1",
+            "Immunization (%)14": "0.2",
+            "Neonatal mortality (#/1,000)": "7",
+            "Under-five mortality (#/1,000)": "3.7",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "0.2",
+            "Secondary school net attendance (%)": "1.1"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "12",
+            "Birth registration (%)": "12.7",
+            "Child under-nutrition (%)": "10.2",
+            "Immunization (%)14": "2.5",
+            "Neonatal mortality (#/1,000)": "13",
+            "Under-five mortality (#/1,000)": "21.4",
+            "Improved sanitation (%)": "33.6",
+            "Primary school net attendance (%)": "2.1",
+            "Secondary school net attendance (%)": "3"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": "31.4",
+            "Birth registration (%)": "29.1",
+            "Child under-nutrition (%)": "29.2",
+            "Immunization (%)14": "17.2",
+            "Neonatal mortality (#/1,000)": "26.1",
+            "Under-five mortality (#/1,000)": "46.2",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "38.9",
+            "Child under-nutrition (%)": "28.6",
+            "Immunization (%)14": "55.8",
+            "Neonatal mortality (#/1,000)": "28.6",
+            "Under-five mortality (#/1,000)": "70.4",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": "28.9",
+            "Birth registration (%)": "26.8",
+            "Child under-nutrition (%)": "26.9",
+            "Immunization (%)14": "16.1",
+            "Neonatal mortality (#/1,000)": "19.3",
+            "Under-five mortality (#/1,000)": "41",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "caste and ethnicity":{
+            "Skilled birth attendance (%)14": "13.8",
+            "Birth registration (%)": "11.1",
+            "Child under-nutrition (%)": "12.6",
+            "Immunization (%)14": "18.5",
+            "Neonatal mortality (#/1,000)": "9.8",
+            "Under-five mortality (#/1,000)": "18.7",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+        "religion":{
+            "Skilled birth attendance (%)14": "34.4",
+            "Birth registration (%)": "21.5",
+            "Child under-nutrition (%)": "19.6",
+            "Immunization (%)14": "33",
+            "Neonatal mortality (#/1,000)": "15.4",
+            "Under-five mortality (#/1,000)": "27.3",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        },
+    "maldives":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "0.6",
+            "Child under-nutrition (%)": "1.2",
+            "Immunization (%)14": "1.4",
+            "Neonatal mortality (#/1,000)": "3",
+            "Under-five mortality (#/1,000)": "8",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "1.3",
+            "Secondary school net attendance (%)": "0.2"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "0.5",
+            "Birth registration (%)": "0.9",
+            "Child under-nutrition (%)": "0.7",
+            "Immunization (%)14": "2.9",
+            "Neonatal mortality (#/1,000)": "3",
+            "Under-five mortality (#/1,000)": "5",
+            "Improved sanitation (%)": "1.1",
+            "Primary school net attendance (%)": "2.7",
+            "Secondary school net attendance (%)": "1.3"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": "0.9",
+            "Birth registration (%)": "1.4",
+            "Child under-nutrition (%)": "4.7",
+            "Immunization (%)14": "4.6",
+            "Neonatal mortality (#/1,000)": "13",
+            "Under-five mortality (#/1,000)": "n.a.",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "7.5",
+            "Secondary school net attendance (%)": "7.9"
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": "0.7",
+            "Birth registration (%)": "1.4",
+            "Child under-nutrition (%)": "7.2",
+            "Immunization (%)14": "1.8",
+            "Neonatal mortality (#/1,000)": "10",
+            "Under-five mortality (#/1,000)": "9",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "5.1",
+            "Secondary school net attendance (%)": "7"
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": "0",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "9.2",
+            "Immunization (%)14": "n.a.",
+            "Neonatal mortality (#/1,000)": "n.a.",
+            "Under-five mortality (#/1,000)": "n.a.",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "nepal":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "1.9",
+            "Child under-nutrition (%)": "0.3",
+            "Immunization (%)14": "1",
+            "Neonatal mortality (#/1,000)": "7",
+            "Under-five mortality (#/1,000)": "5",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "1.6",
+            "Secondary school net attendance (%)": "2.4"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "20.9",
+            "Birth registration (%)": "3.4",
+            "Child under-nutrition (%)": "8.2",
+            "Immunization (%)14": "1.5",
+            "Neonatal mortality (#/1,000)": "10",
+            "Under-five mortality (#/1,000)": "10",
+            "Improved sanitation (%)": "1.8",
+            "Primary school net attendance (%)": "5.7",
+            "Secondary school net attendance (%)": "10.8"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": "54.8",
+            "Birth registration (%)": "4.6",
+            "Child under-nutrition (%)": "32.7",
+            "Immunization (%)14": "8.2",
+            "Neonatal mortality (#/1,000)": "24",
+            "Under-five mortality (#/1,000)": "38",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "-9.8",
+            "Secondary school net attendance (%)": "19.6"
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": "34.4",
+            "Birth registration (%)": "19.9",
+            "Child under-nutrition (%)": "25.1",
+            "Immunization (%)14": "20.1",
+            "Neonatal mortality (#/1,000)": "26",
+            "Under-five mortality (#/1,000)": "42",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "19.4",
+            "Secondary school net attendance (%)": "39.6"
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": "47.3",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "23",
+            "Immunization (%)14": "23.4",
+            "Neonatal mortality (#/1,000)": "24",
+            "Under-five mortality (#/1,000)": "39",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+        },
+    "sri lanka":{
+        "gender":{
+            "Skilled birth attendance (%)14": "n.a.",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "1.3",
+            "Immunization (%)14": "1.7",
+            "Neonatal mortality (#/1,000)": "3",
+            "Under-five mortality (#/1,000)": "4",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "0.3",
+            "Secondary school net attendance (%)": "0"
+        },
+        "location":{
+            "Skilled birth attendance (%)14": "0.1",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "17",
+            "Immunization (%)14": "3.4",
+            "Neonatal mortality (#/1,000)": "1",
+            "Under-five mortality (#/1,000)": "4",
+            "Improved sanitation (%)": "12.1",
+            "Primary school net attendance (%)": "2",
+            "Secondary school net attendance (%)": "1.4"
+        },
+        "wealth quintile":{
+            "Skilled birth attendance (%)14": "0.5",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "13.5",
+            "Immunization (%)14": "4.7",
+            "Neonatal mortality (#/1,000)": "4",
+            "Under-five mortality (#/1,000)": "8",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "1.9",
+            "Secondary school net attendance (%)": "0.7"
+        },
+        "sub national area":{
+            "Skilled birth attendance (%)14": "0.8",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "20.7",
+            "Immunization (%)14": "19",
+            "Neonatal mortality (#/1,000)": "23",
+            "Under-five mortality (#/1,000)": "15",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "5.6",
+            "Secondary school net attendance (%)": "8.3"
+        },
+        "mother's education":{
+            "Skilled birth attendance (%)14": "0.2",
+            "Birth registration (%)": "n.a.",
+            "Child under-nutrition (%)": "25.5",
+            "Immunization (%)14": "5.6",
+            "Neonatal mortality (#/1,000)": "6",
+            "Under-five mortality (#/1,000)": "11",
+            "Improved sanitation (%)": "n.a.",
+            "Primary school net attendance (%)": "n.a.",
+            "Secondary school net attendance (%)": "n.a."
+        }
+    }
+}
